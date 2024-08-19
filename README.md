@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bmphuong
 - 👀 I’m interested in Robotics and Industrial Automation
-- 🌱 I’m currently learning ROS2
-- 📫 For more information, please contact me: phuong.buiminhdee@hcmut.edu.vn
+- 🌱 I’m currently learning PLC and SCADA
+- 📫 For more information, please contact me: bmphuong48@gmail.com
 
 <!---
 bmphuong/bmphuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
