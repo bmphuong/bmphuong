@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmphuong
-- 👀 I’m interested in Robotics and Industrial Automation
+- 👀 I’m interested in Industrial Automation
 - 🌱 I’m currently learning PLC and SCADA
 - 📫 For more information, please contact me: bmphuong48@gmail.com
 
